@@ -17,6 +17,8 @@ The library used in both code (IRremote.h) can be download from: https://github.
 
 It is an zip file and should be unzip to arduino library file.
 
+The desired result is when button is pushed, infrared light will be emitting and received by IR receiver, and then the LED will be lighted.
+
 Unfortunately my circuit didn't work well. I checked the codes they were successfully upload into two arduino board in different COM. 
 
 The reason that this circuit did not work was I didn't set the IR led emitter right. I highlight this error in the image with red circle.
